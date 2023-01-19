@@ -115,10 +115,10 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](./out.png)
+![OUTPUT](http://tarun.student.saveetha.in:8000/static/images/out.png?raw=true))
 
 # HTML VALIDATOR
-![HTML VALIDATOR](./valid.png)
+![HTML VALIDATOR](http://tarun.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT
 The program for creating slot table is completed successfully
